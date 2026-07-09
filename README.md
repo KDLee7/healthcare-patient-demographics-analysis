@@ -6,7 +6,18 @@ This project demonstrates an end-to-end healthcare data analysis workflow using 
 
 The objective was to analyze patient demographic data, assess data quality, answer business questions, and present findings through SQL queries and visualizations.
 
+Scenario: A healthcare organization requested an analysis of patient demographic data to better understand its patient population and identify data quality issues that could affect operational reporting.
+
 ---
+## Project Workflow
+
+1. Imported raw healthcare data into SQL Server
+2. Explored dataset structure
+3. Assessed data quality
+4. Identified demographic distributions
+5. Answered business questions using SQL
+6. Developed recommendations based on findings
+7. (Upcoming) Visualized results in Power BI
 
 ## Business Questions
 
@@ -42,6 +53,16 @@ This analysis answers questions such as:
 - Documentation
 
 ---
+
+## Initial Findings
+
+Current findings include:
+
+- Dataset contains 5,000 patient records.
+- Female patients account for approximately 55% of the population.
+- The 65–74 age group represents the largest patient segment.
+- Only 26 records contain missing demographic information.
+- Income is stored in categorical ranges rather than exact values.
 
 ## Project Status
 
