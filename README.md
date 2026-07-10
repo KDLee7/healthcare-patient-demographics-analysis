@@ -64,6 +64,24 @@ Current findings include:
 - Only 26 records contain missing demographic information.
 - Income is stored in categorical ranges rather than exact values.
 
+## Phase 1 Findings
+
+### Dataset Summary
+
+- Total patient records: **5,000**
+- One record per patient (no duplicate IDs)
+- Gender values are consistent (Female and Male only)
+- Age is stored as categorical ranges
+- Income is stored as categorical ranges
+
+### Key Findings
+
+- Female patients represent **54.76%** of the population.
+- The largest patient group is **65–74 years old**, representing **43.76%** of all patients.
+- Only **26 records** contain missing age information.
+- Only **26 records** contain missing income information.
+
+
 ## Project Status
 
 🚧 In Progress
